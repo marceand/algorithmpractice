@@ -428,8 +428,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="648" />
-    <option name="y" value="23" />
+    <option name="x" value="823" />
+    <option name="y" value="27" />
     <option name="width" value="1400" />
     <option name="height" value="919" />
   </component>
@@ -473,7 +473,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541380149812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541380356939" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
